@@ -1,6 +1,6 @@
 # I-wanna-be-the-engine-daknew-edition
 解释一下引擎名称“daknew”是什么意思：\
-dak：是我英文网名Diantsibylon Aqualyte Koi的缩写\
+dak：是我曾用的英文网名Diantsibylon Aqualyte Koi的缩写\
 new：取自new yuuutu，表示该引擎是基于它制作的
 
 这是一个运行在GameMaker 8.0上的iw游戏制作引擎。基于new yuuutu引擎制作，附上了教程，并增加了以下几个突出的功能：
